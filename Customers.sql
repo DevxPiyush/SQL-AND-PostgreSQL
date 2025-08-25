@@ -1,0 +1,4 @@
+CREATE TABLE customers (
+ id INT NOT NULL,
+ PRIMARY KEY (id) 
+);
