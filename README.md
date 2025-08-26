@@ -28,7 +28,7 @@ sudo docker ps
 
 echo "✅ SQL Server is running on localhost:1433 (user: sa / password: StrongPass!123)"
 
-#🔗 VS Code Setup
+🔗 VS Code Setup
 
 Install VS Code.
 
