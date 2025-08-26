@@ -1,0 +1,9 @@
+ALTER TABLE birthday
+ADD year INT NOT NULL DEFAULT 2000;
+
+
+
+
+
+
+
