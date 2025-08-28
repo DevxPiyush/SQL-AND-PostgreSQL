@@ -1,0 +1,5 @@
+CREATE TABLE flags(
+id SERIAL PRIMARY KEY,
+name VARCHAR(50),
+flag VARCHAR(50)
+);
